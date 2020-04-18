@@ -71,7 +71,6 @@ With this repository a Makefile is provided, which generates _ciphersuitenamemap
 ```
 
 ## ToDos
-The tool
   - [ ] implement multithreading
   - [ ] check for insecure configurations
   - [ ] add support for TLS 1.3
